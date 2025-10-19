@@ -38,6 +38,7 @@ Microsoft Excel
 - Average Reading Score	64.53
 - Average Math Score	65.18
 - Average Attendance Score	79.23
+  
 <img width="466" height="56" alt="image" src="https://github.com/user-attachments/assets/efc521f1-1cf0-4c57-af79-62eefe7e127c" />
 
 #### Teachers’ Feedback on Students’ Performance
