@@ -39,8 +39,7 @@ Microsoft Excel
 - Average Math Score	65.18
 - Average Attendance Score	79.23
   
-<img width="943" height="356" alt="image" src="https://github.com/user-attachments/assets/613e7148-6793-43a1-996c-7ba931d14de0" />
-
+<img width="466" height="56" alt="image" src="https://github.com/user-attachments/assets/04449f22-fab9-4796-8c20-0cf16df69c48" />
 
 #### Teachers’ Feedback on Students’ Performance
 Teachers’ feedback correlates strongly with overall student performance, showing a need for targeted support to 50% of students.
@@ -54,6 +53,9 @@ Teachers’ feedback correlates strongly with overall student performance, showi
 #### Student Performance vs Attendance
 - Students with 90–100% attendance significantly outperformed peers below 80%.
 - Positive correlation between attendance and academic success overall.
+
+<img width="943" height="356" alt="image" src="https://github.com/user-attachments/assets/d234de7a-074f-408d-ac31-5f0b4496d5e6" />
+
 ## Recommendations
 - Integrate real-time student data dashboards so educators can monitor attendance, grades, and interventions continuously.
 - Increase teacher training on using data insights to personalize learning and improve student engagement.
