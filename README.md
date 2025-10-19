@@ -10,7 +10,7 @@ It simulates a real-world data onboarding and analysis scenario, showcasing how 
 - [Tools and Data Cleaning Steps](#tools-and-data-cleaning-steps)
 - [Dashboard Insights](#dashboard-insights)
 - [Recommendations](#recommendations)
-- [Link to Viz](#link-to-viz)
+- [Link to Excel File](#link-to-excel-file)
 - [Conclusion ](#conclusion)
 
 ## Objective:
@@ -59,6 +59,8 @@ Teachers’ feedback correlates strongly with overall student performance, showi
 - Adopt standardized data collection frameworks across districts to improve data consistency and comparability.
 - Leverage predictive analytics to identify students at risk of underperformance early and provide targeted support.
 
+## Link to Excel File
+https://docs.google.com/spreadsheets/d/1hA0mvCZOElQxkQV07YvTfCZxdd0QUClPI10YQ7HDH_g/edit?usp=sharing
 ## Conclusion
 The Students Performance Analysis project illustrates how data analytics can transform educational outcomes by revealing hidden patterns in performance, attendance, and intervention effectiveness.
 By embracing a data-driven culture, schools and districts can make informed decisions that foster equity, enhance learning experiences, and close achievement gaps; aligning with the core mission of organizations like Branching Minds to empower every student’s success.
