@@ -39,7 +39,8 @@ Microsoft Excel
 - Average Math Score	65.18
 - Average Attendance Score	79.23
   
-<img width="466" height="56" alt="image" src="https://github.com/user-attachments/assets/efc521f1-1cf0-4c57-af79-62eefe7e127c" />
+<img width="943" height="356" alt="image" src="https://github.com/user-attachments/assets/613e7148-6793-43a1-996c-7ba931d14de0" />
+
 
 #### Teachers’ Feedback on Students’ Performance
 Teachers’ feedback correlates strongly with overall student performance, showing a need for targeted support to 50% of students.
